@@ -32,16 +32,15 @@
 ---
 
 ## 📄 学术成果（Publications）
-### 第一作者工作 First-Author Works
+### 第一作者工作（First-Author Works）
 1. **Q. He**, T.-Y. Sun, L.-F. Huang*, *Chemical-bonding and lattice-deformation mechanisms unifying the stability and diffusion trends of hydrogen in TiN and AlN polymorphs*（化学键合和晶格变形相统一的氢在多结构TiN和AlN中的稳定性和扩散趋势）, **Acta Materialia** 281, 120447 (2024). | [DOI](https://doi.org/10.1016/j.actamat.2024.120447) | [News](https://www.nimte.ac.cn/news/progress/202412/t20241203_7449883.html)
    
 3. **Q. He**, D. Liu, Y. Zhou, T.-Y. Sun, L.-F. Huang*, *Nitride coatings for environmental barriers: the key microscopic mechanisms and momentous applications of first-principles calculations*（氮化物屏障用作环境涂层：来自第一性原理计算的关键微观机制和重大应用）, **Surface Science and Technology** 2, 24 (2024). | [DOI](https://doi.org/10.1007/s44251-024-00053-6)
 
-### 合作工作 Collaborative Works
+### 合作工作（Collaborative Works）
 - Y. Jin, **Q. He**, G. Liu, et al., *Fluorinated Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub> enables stable all-solid-state lithium batteries*（氟化Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub>电解质稳定全固态锂电池）, **Advanced Materials** 35, 2211047 (2023). | [DOI](https://doi.org/10.1002/adma.202211047)
 
-- **Homogeneous Fluorine Doping**  
-  N. Zhang, **Q. He**, L. Zhang, et al., *Homogeneous Fluorine Doping toward Highly Conductive and Stable Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub> Solid Electrolyte for All-Solid-State Lithium Batteries*（面向全固态锂电池的高电导高稳定的Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub>固态电解质的均匀氟掺杂）, **Advanced Materials** 36, 2408903 (2024). | [DOI](https://doi.org/10.1002/adma.202408903)
+- N. Zhang, **Q. He**, L. Zhang, et al., *Homogeneous Fluorine Doping toward Highly Conductive and Stable Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub> Solid Electrolyte for All-Solid-State Lithium Batteries*（面向全固态锂电池的高电导高稳定Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub>固态电解质的均匀氟掺杂）, **Advanced Materials** 36, 2408903 (2024). | [DOI](https://doi.org/10.1002/adma.202408903)
 
 ---
 
