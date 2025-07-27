@@ -20,12 +20,12 @@
 ## 🔬 研究方向 (Research Interests)
 ### 硕士 
 
-**过渡金属氮化物涂层缺陷动力学 （Defect Dynamics in Transition Metal Nitride Coatings）**  
+过渡金属氮化物涂层缺陷动力学 （Defect Dynamics in Transition Metal Nitride Coatings）
 
 
 
 ### 博士 
-**固态电池正极材料力学-化耦合失效（Mechanical-Chemical Coupling Failure in Solid-State Battery Cathodes ）**  
+锂电池正极材料的力学-化学耦合失效（Mechanical-Chemical Coupling Failure in Lithium Battery Cathodes ） 
 
 
 
