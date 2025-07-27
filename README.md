@@ -1,6 +1,8 @@
 # 何钦生（Qinsheng He） 
 *PhD Candidate*  
-📍 Xi'an, China | GitHub: [github.com/QS-He](https://github.com/QS-He)
+📍 Xi'an, China 
+| GitHub | [github.com/QS-He](https://github.com/QS-He)
+| ResearchGate | (https://www.researchgate.net/profile/He-Qin-Sheng?ev=prf_overview)
 
 ---
 
@@ -16,13 +18,13 @@
 ---
 
 ## 🔬 研究方向 (Research Interests)
-### 硕士课题  
+### 硕士 
 
 **过渡金属氮化物涂层缺陷动力学 （Defect Dynamics in Transition Metal Nitride Coatings）**  
 
 
 
-### 博士研究  
+### 博士 
 **固态电池正极材料力学-化耦合失效（Mechanical-Chemical Coupling Failure in Solid-State Battery Cathodes ）**  
 
 
@@ -30,25 +32,21 @@
 ---
 
 ## 📄 学术成果（Publications）
-### First-Author Works
+### 第一作者工作 First-Author Works
 1. **Q. He**, T.-Y. Sun, L.-F. Huang*, *Chemical-bonding and lattice-deformation mechanisms unifying the stability and diffusion trends of hydrogen in TiN and AlN polymorphs*（化学键合和晶格变形相统一的氢在多结构TiN和AlN中的稳定性和扩散趋势）, **Acta Materialia** 281, 120447 (2024).  
-   [DOI](https://doi.org/10.1016/j.actamat.2024.120447) | [arXiv](https://arxiv.org/abs/2405.5678)
+   [DOI](https://doi.org/10.1016/j.actamat.2024.120447)
+   [news](https://www.nimte.ac.cn/news/progress/202412/t20241203_7449883.html)
    
-2. **Q. He**, D. Liu, Y. Zhou, T.-Y. Sun, L.-F. Huang*, *Nitride coatings for environmental barriers: the key microscopic mechanisms and momentous applications of first-principles calculations*（氮化物屏障用作环境涂层：来自第一性原理计算的关键微观机制和重大应用）, **Surface Science and Technology** 2, 24 (2024).
-   [DOI](https://doi.org/10.1016/j.surfcoat.2024.24) | [arXiv](https://arxiv.org/abs/2403.1234)
+3. **Q. He**, D. Liu, Y. Zhou, T.-Y. Sun, L.-F. Huang*, *Nitride coatings for environmental barriers: the key microscopic mechanisms and momentous applications of first-principles calculations*（氮化物屏障用作环境涂层：来自第一性原理计算的关键微观机制和重大应用）, **Surface Science and Technology** 2, 24 (2024).
+   [DOI](https://doi.org/10.1007/s44251-024-00053-6)
 
-### Collaborative Works
-- **Fluorinated Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub>**  
-  Y. Jin, **Q. He**, G. Liu, et al., *Advanced Materials* 35, 2211047 (2023).  
-  [DOI](https://doi.org/10.1002/adma.202300456)
+### 合作工作 Collaborative Works
+- Y. Jin, **Q. He**, G. Liu, et al., *Fluorinated Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub> enables stable all-solid-state lithium batteries*（氟化Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub>电解质稳定全固态锂电池）, **Advanced Materials** 35, 2211047 (2023).  
+  [DOI](https://doi.org/10.1002/adma.202211047)
 
 - **Homogeneous Fluorine Doping**  
-  N. Zhang, **Q. He**, L. Zhang, et al., *Advanced Materials* 36, 2408903 (2024).  
-  [DOI](https://doi.org/10.1002/adma.202400789)
-
-- **Superlubricity in MoS<sub>2</sub>/W**  
-  X. Fan<sup>#</sup>, W. He<sup>#</sup>, **Q. He</sup>, et al., *Communications Materials* (2025).  
-  [Accepted](https://doi.org/10.1038/s43246-025-00432-z)
+  N. Zhang, **Q. He**, L. Zhang, et al., *Homogeneous Fluorine Doping toward Highly Conductive and Stable Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub> Solid Electrolyte for All-Solid-State Lithium Batteries*（面向全固态锂电池的高电导高稳定的Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub>固态电解质的均匀氟掺杂）, **Advanced Materials** 36, 2408903 (2024).  
+  [DOI](https://doi.org/10.1002/adma.202408903)
 
 ---
 
