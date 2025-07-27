@@ -20,7 +20,7 @@
 ## 🔬 研究方向 (Research Interests)
 ### 硕士 
 
-过渡金属氮化物涂层缺陷动力学 （Defect Dynamics in Transition Metal Nitride Coatings）
+过渡金属氮化物涂层中的缺陷动力学 （Defect Dynamics in Transition Metal Nitride Coatings）
 
 
 
