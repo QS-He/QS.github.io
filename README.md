@@ -44,7 +44,7 @@
 
 ---
 
-## 📮 联系方式 (Contact)
+## 📮 联系方式 (Contact Me)
 **📧 邮件（Email）**
   heqinsheng@nimte.ac.cn
 
