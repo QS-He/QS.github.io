@@ -44,6 +44,7 @@
 ### 第一作者工作（First-Author Works）
 1. **Q. He**, T.-Y. Sun, L.-F. Huang*, *Chemical-bonding and lattice-deformation mechanisms unifying the stability and diffusion trends of hydrogen in TiN and AlN polymorphs*（化学键合和晶格变形机制统一了氢在多结构TiN和AlN中的稳定性和扩散趋势）, **Acta Materialia** 281, 120447 (2024). | [DOI](https://doi.org/10.1016/j.actamat.2024.120447) | 📰[官网报道](https://www.nimte.ac.cn/news/progress/202412/t20241203_7449883.html)
 
+/images/2024_Acta_Chemical_TOC.jpg
    本研究以“**成键机制决定了热力学和动力学趋势**”为主线，通过第一性原理计算系统阐明了原子氢在 TiN 与 AlN 三种晶体结构中的行为。首先解析了 H–N 与 H–Metal 的共价-离子混合成键模式，发现**成键强度受氢的电子个数（*Q*<sub>H</sub>）调控**，从而构建出普适的**E*<sub>f</sub>–*Q*<sub>H</sub>“火山曲线”规律**：*Q*<sub>H</sub> 接近 1 e（中性）时氢最不稳定，偏离该值时因更强的离子或共价相互作用而趋于稳定。这一成键机制直接决定了热力学趋势:氢在间隙位形成能高达 +2.3 eV，表明环境氢进入完整晶格需克服巨大能垒，而在空位或晶界处形成能骤降至 −2.6 eV，极易被捕获。进一步，**将火山关系外推到扩散动力学**：成键类型沿扩散路径的突变（如 H–Ti 离子键 切换到 H–N 共价键）导致高势垒（0.47–2.11 eV），而键型保持一致的通道则势垒极低（0.08–0.17 eV）；同时晶格畸变对势垒的定量贡献可达 0.8 eV，与化学成键协同控制扩散系数跨越 10<sup>6</sup> 量级。最终，**提出“热力学屏障”与“动力学屏障”双重判据**，解释了实验报道的氮化物涂层多变的氢渗透率，并为面向严苛服役环境的高可靠氢渗透阻挡涂层提供了可量化的设计原则。  
    
 2. **Q. He**#, D. Liu#, Y. Zhou#, T.-Y. Sun, L.-F. Huang*, *Nitride coatings for environmental barriers: the key microscopic mechanisms and momentous applications of first-principles calculations*（氮化物屏障用作环境涂层：来自第一性原理计算的关键微观机制和重大应用）, **Surface Science and Technology** 2, 24 (2024). | [DOI](https://doi.org/10.1007/s44251-024-00053-6)
