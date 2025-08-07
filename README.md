@@ -4,6 +4,15 @@
 | [GitHub](https://github.com/QS-He)
 | [ResearchGate](https://www.researchgate.net/profile/He-Qin-Sheng?ev=prf_overview) |
 
+
+
+## 📮 联系方式 (Contact Me)
+**📧 邮件（Email）**
+  heqinsheng@nimte.ac.cn
+
+**📱 电话（Tel）**
+  173 4781 1227
+
 ---
 
 ## 🎓 教育背景 (Education)
@@ -29,7 +38,7 @@
 
 
 
----
+
 
 ## 📄 学术成果（Publications）
 ### 第一作者工作（First-Author Works）
@@ -44,11 +53,3 @@
 
 - N. Zhang, **Q. He**, L. Zhang, et al., *Homogeneous Fluorine Doping toward Highly Conductive and Stable Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub> Solid Electrolyte for All-Solid-State Lithium Batteries*（均匀氟掺杂实现高电导高稳定的Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub>电解质以迈向全固态锂电池）, **Advanced Materials** 36, 2408903 (2024). | [DOI](https://doi.org/10.1002/adma.202408903) | 🔥高被引
 
----
-
-## 📮 联系方式 (Contact Me)
-**📧 邮件（Email）**
-  heqinsheng@nimte.ac.cn
-
-**📱 电话（Tel）**
-  173 4781 1227
