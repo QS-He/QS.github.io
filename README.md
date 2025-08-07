@@ -25,21 +25,18 @@
 | 2025.09 - 至今 | 西安交通大学 | 航天航空学院 | 博士研究生 |
 
 ---
-
 ## 🔬 研究方向 (Research Interests)
-### 硕士 
+### 硕士 / 金属氮化物涂层中的缺陷动力学 （Defect Dynamics in Metal Nitride Coatings）
 
-过渡金属氮化物涂层中的缺陷动力学 （Defect Dynamics in Transition Metal Nitride Coatings）
+- 研究内容：轻质量杂质原子（氢，氦）在多种过渡金属氮化物（主要为常用作耐磨涂层的 TiN 和 AlN ，也涉及 ScN、ZrN、TaN 等其他前周期过渡金属氮化物）中的热力学稳定性（化学成键 + 晶格畸变效应）、扩散动力学性质（扩散势垒、扩散系数）以及相关的量子效应（零点效应、同位素效应），重点关注缺陷附近（不同形式的空位和晶界等）的能量学规律及潜藏的电子结构机制。
+- 研究方法：多种电子结构表征方法，包括态密度（DOS）、电荷密度、电子轨道布居分析（COHP）等；轻推弹性带方法（NEB）；简谐近似过渡态理论（hTST）。
 
+### 博士 / 锂电池正极材料的力学-化学耦合失效（Mechanical-Chemical Coupling Failure in Li-ion Battery Cathodes ） 
 
-
-### 博士 
-锂电池正极材料的力学-化学耦合失效（Mechanical-Chemical Coupling Failure in Lithium Battery Cathodes ） 
 
 
 
 ---
-
 ## 📑 第一作者工作（First-Author Works）
 
 1. **Q. He**, T.-Y. Sun, L.-F. Huang*, *Chemical-bonding and lattice-deformation mechanisms unifying the stability and diffusion trends of hydrogen in TiN and AlN polymorphs*, **Acta Materialia** 281, 120447 (2024). | [DOI](https://doi.org/10.1016/j.actamat.2024.120447) | 📰[官网报道](https://www.nimte.ac.cn/news/progress/202412/t20241203_7449883.html)
@@ -73,7 +70,6 @@
 </details> 
 
 ---
-
 ## 🔗 合作工作（Collaborative Works）
 1. Y. Jin, **Q. He**, G. Liu, et al., *Fluorinated Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub> enables stable all-solid-state lithium batteries*, **Advanced Materials** 35, 2211047 (2023). | [DOI](https://doi.org/10.1002/adma.202211047) | 🔥高被引
 
