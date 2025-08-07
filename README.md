@@ -60,7 +60,7 @@
 
 </details> 
 
-<p align="center">— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —</p>
+<br>
    
 2. **Q. He**#, D. Liu#, Y. Zhou#, T.-Y. Sun, L.-F. Huang*, *Nitride coatings for environmental barriers: the key microscopic mechanisms and momentous applications of first-principles calculations*, **Surface Science and Technology** 2, 24 (2024). | [DOI](https://doi.org/10.1007/s44251-024-00053-6)
 
@@ -78,7 +78,7 @@
   
 </details> 
 
-<p align="center">— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —</p>
+<br>
 
 2. N. Zhang, **Q. He**, L. Zhang, et al., *Homogeneous Fluorine Doping toward Highly Conductive and Stable Li<sub>10</sub>GeP<sub>2</sub>S<sub>12</sub> Solid Electrolyte for All-Solid-State Lithium Batteries*, **Advanced Materials** 36, 2408903 (2024). | [DOI](https://doi.org/10.1002/adma.202408903) | 🔥高被引
 
@@ -87,7 +87,7 @@
   
 </details> 
 
-<p align="center">— — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — — —</p>
+<br>
 
 3. X. Fan#, W. He#, Z. Zhang#, B. He, Y. Lin, **Q. He**, L.-F. Huang, S. Ren*, Z. Lu*, J. Pu*, Q. Xue, *Enhancing irradiation tolerance and inducing superlubricity in MoS2/W multilayer film exposed to atomic oxygen*, **Communications Materials** 6, 160 (2025). | [DOI](https://www.nature.com/articles/s43246-025-00884-2)
 
