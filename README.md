@@ -31,7 +31,7 @@
 - 研究内容：轻质量杂质原子（氢，氦）在多种过渡金属氮化物（主要为常用作耐磨涂层的 TiN 和 AlN ，也涉及 ScN、ZrN、TaN 等其他前周期过渡金属氮化物）中的热力学稳定性（化学成键 + 晶格畸变效应）、扩散动力学性质（扩散势垒、扩散系数）以及相关的量子效应（零点效应、同位素效应），重点关注缺陷附近（不同形式的空位和晶界等）的能量学规律及潜藏的电子结构机制。
 - 研究方法：多种电子结构表征方法，包括态密度（DOS）、电荷密度、电子轨道布居分析（COHP）等；轻推弹性带方法（NEB）；简谐近似过渡态理论（hTST）。
 
-### 博士 / 锂电池正极材料的力学-化学耦合失效（Mechanical-Chemical Coupling Failure in Li-ion Battery Cathodes） 
+### 博士 / 锂电池正极材料的多尺度力学-化学耦合失效（Multi-scale Mechano-chemical Coupling-Driven Failure in Li-ion Battery Cathodes） 
 
 
 
